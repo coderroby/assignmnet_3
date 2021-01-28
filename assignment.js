@@ -1,4 +1,4 @@
-//https://github.com/coderroby/asssignment3
+//https://github.com/coderroby/assignmnet_3
 
 function kilometerToMeter(n) {
     if (n < 0) {
